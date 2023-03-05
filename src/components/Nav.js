@@ -6,7 +6,7 @@ function NavigationBar() {
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand" href="#">
-          Brand Name
+          Multiply
         </a>
         <button
           class="navbar-toggler"
@@ -35,7 +35,7 @@ function NavigationBar() {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                Dropdown
+                Items
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <Link to="/action1" class="nav-item active nav-link">
